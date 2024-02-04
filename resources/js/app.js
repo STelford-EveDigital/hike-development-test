@@ -1,7 +1,14 @@
 import './bootstrap';
+import { createApp } from 'vue';
+import LeadCaptureForm from './components/LeadCaptureForm.vue';
 
-import Alpine from 'alpinejs';
+createApp({})
+    .component('LeadCaptureForm', LeadCaptureForm)
+    .mount('#app')
 
-window.Alpine = Alpine;
 
-Alpine.start();
+// import Alpine from 'alpinejs';
+
+// window.Alpine = Alpine;
+
+// Alpine.start();
