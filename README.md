@@ -31,3 +31,8 @@ This project has a 4 hour max timelimit and has the below brief:
 - Run locally using Laravel Valet with a URL of `http://hike-seo-test.test/`
 - Local database run through DBngin, `MySQL v8.0.33 Intel|ARM` accessible through port `3306` with a database name of `hike-development-test`.
 - Email is routed through `MailTrap` for local testing - Request access to view mailbox or be added to **Auto Forward** list to receive copy.
+
+## Resources
+
+- `Haydens Garage` logo generated with `https://express.adobe.com/express-apps/logo-maker/`
+- Hero BG from `https://www.pexels.com/photo/set-of-tool-wrench-162553/`
